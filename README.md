@@ -5,16 +5,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=900&color=050100&random=false&height=35&lines=Hey+I'm+Hemasri!)](https://git.io/typing-svg)
 #### 📊 Data enthusiast with a knack for turning numbers into stories. Browse my projects for cool insights and visuals! 🚀
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heymasri&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=heymasri&style=flat-square)
-
-
-
-
-
-
-
-
