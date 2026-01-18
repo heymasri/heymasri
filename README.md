@@ -8,8 +8,7 @@
 🖥️ c# · .net · sql · python · excel · power bi  
 🛠️  clean code. 📈 clear insights! 🚀 
 ```
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heymasri&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymasri&layout=compact&theme=dark&bg_color=0d1117&title_color=EAEAEA&text_color=EAEAEA&border_color=0d1117" width="300" />
 
 ```
 📫 connect
