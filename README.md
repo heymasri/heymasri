@@ -1,17 +1,24 @@
-<div id="header" >
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG03NjFoNmM1bmphb2p4ZHQ4cnR4d3I1Nm1idW85MHIybWwxMno3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
+<p align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG03NjFoNmM1bmphb2p4ZHQ4cnR4d3I1Nm1idW85MHIybWwxMno3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="80"/> </p>
+
+<h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝙷𝚎𝚖𝚊𝚜𝚛𝚒</h1>
+<p align="center">
+💻 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 🤖 𝙳𝚊𝚝𝚊 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝
+</p>
+
+<p align="center">
+⚡ c# · 𝚍𝚘𝚝𝚗𝚎𝚝 · 𝚜𝚚𝚕 · 𝚙𝚢𝚝𝚑𝚘𝚗 · 𝚎𝚡𝚌𝚎𝚕 · 𝚙𝚘𝚠𝚎𝚛 𝚋𝚒  
+🛠️  𝚌𝚕𝚎𝚊𝚗 𝚌𝚘𝚍𝚎. 📈 𝚌𝚕𝚎𝚊𝚛 𝚒𝚗𝚜𝚒𝚐𝚑𝚝𝚜! 🚀
+</p>
+
+<div align="center">
+
+📫 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 :
+
+<a href="https://www.linkedin.com/in/hemasri16">
+  <img src="https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin">
+</a>
+<a href="mailto:heymasri16@gmail.com">
+  <img src="https://img.shields.io/badge/email-red?style=flat&logo=gmail">
+</a>
+
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=80&color=000000&background=FFFFFF&width=600&height=55&repeat=true&lines=Hey+I%27m+Hemasri!;Software+Engineer+%7C+Backend+%26+Data+Focused.&cacheSeconds=1)](https://git.io/typing-svg)
-
-```
-🖥️ c# · .net · sql · python · excel · power bi  
-🛠️  clean code. 📈 clear insights! 🚀 
-```
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymasri&layout=compact&theme=dark&bg_color=0d1117&title_color=EAEAEA&text_color=EAEAEA&border_color=0d1117" width="300" />
-
-```
-📫 connect
-- linkedin: https://www.linkedin.com/in/hemasri16
-- email: heymasri16@gmail.com
-```
