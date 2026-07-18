@@ -14,9 +14,9 @@
 
 📫 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 :
 
-<a href="https://www.linkedin.com/in/hemasri16">
+<!-- <a href="https://www.linkedin.com/in/hemasri16">
   <img src="https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin">
-</a>
+</a> -->
 <a href="mailto:heymasri16@gmail.com">
   <img src="https://img.shields.io/badge/email-red?style=flat&logo=gmail">
 </a>
